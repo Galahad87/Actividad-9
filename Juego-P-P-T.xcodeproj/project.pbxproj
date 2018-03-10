@@ -14,6 +14,7 @@
 		F33D24D92053886900035253 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F33D24D72053886900035253 /* LaunchScreen.storyboard */; };
 		F33D24E42053886A00035253 /* Juego_P_P_TTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F33D24E32053886A00035253 /* Juego_P_P_TTests.swift */; };
 		F33D24EF2053886A00035253 /* Juego_P_P_TUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F33D24EE2053886A00035253 /* Juego_P_P_TUITests.swift */; };
+		F33D24FD205388A600035253 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = F33D24FC205388A600035253 /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		F33D24EA2053886A00035253 /* Juego-P-P-TUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Juego-P-P-TUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F33D24EE2053886A00035253 /* Juego_P_P_TUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Juego_P_P_TUITests.swift; sourceTree = "<group>"; };
 		F33D24F02053886A00035253 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F33D24FC205388A600035253 /* ViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				F33D24CE2053886900035253 /* AppDelegate.swift */,
 				F33D24D02053886900035253 /* ViewController.swift */,
+				F33D24FC205388A600035253 /* ViewController2.swift */,
 				F33D24D22053886900035253 /* Main.storyboard */,
 				F33D24D52053886900035253 /* Assets.xcassets */,
 				F33D24D72053886900035253 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				F33D24D12053886900035253 /* ViewController.swift in Sources */,
 				F33D24CF2053886900035253 /* AppDelegate.swift in Sources */,
+				F33D24FD205388A600035253 /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
